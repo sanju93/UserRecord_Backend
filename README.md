@@ -6,6 +6,6 @@
 5. MongoDB
 
 ## how to Start
-
-1. npm install
-2. npm start || node index.js
+1. git clone `https://github.com/sanju93/UserRecord_Backend`
+2. npm install
+3. npm start || node index.js
